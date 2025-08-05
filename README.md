@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Building+AI-powered+traffic+systems; +Exploring+AI+for+Social+Impact+and+Productivity;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Building+AI-powered+traffic+systems;Exploring+AI+for+Social+Impact+and+Productivity;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 🔹 [**Vision Marshal**](https://github.com/ibraztech2/VisionMarshal)  
 AI-powered traffic violation detection system using YOLOv8 and SlowFast to track overspeeding, illegal turns, and pedestrian safety violations.  
-`Python · OpenCV · Streamlit · MMAction2 · Colab · Ngrok`
+`Python · OpenCV · MMAction2 · Ngrok`
 
 🔹 [**Action Localization**](https://github.com/ibraztech2/Action-Localization)  
 Spatio-temporal action localization in videos with SlowFast networks and real-world datasets.  
@@ -22,7 +22,7 @@ Spatio-temporal action localization in videos with SlowFast networks and real-wo
 
 🔹 [**Text to Video Generator**](https://github.com/ibraztech2/text_to_video_generator)  
 A generative deep learning pipeline that turns natural language prompts into short videos.  
-`Python · Diffusion Models · Transformers · HuggingFace · MoviePy`
+`Python · Diffusion Models · Transformers · HuggingFace`
 
 ---
 
@@ -34,17 +34,6 @@ A generative deep learning pipeline that turns natural language prompts into sho
     <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/MoviePy-FF0080?style=for-the-badge&logo=python&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></td>
   </tr>
 </table>
